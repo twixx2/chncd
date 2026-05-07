@@ -1,12 +1,29 @@
-# React + Vite
+# chncd
+>**chncd** ~~(as in "chanced")~~ is a mini game platform inspired by casino-like mechanics. It does include cases, games, stakes and an inventory system. 
+The chncd's author is focused on entertainment, therefore, all in-game currencies, stakes, gameplay elements are entirely fictitious.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## `Features`
+* Games
+> up to 3 games: sapper, tower and minehunt
+* Cases
+> open cases and test your luck!
+* Profile
+> not very customizable yet
+* Inventory 
+> keep your stuff in a safe place
 
-Currently, two official plugins are available:
+## `Plans`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Trades
+> swap your items with other players
+* Mrkt
+> a powerful place to buy stuff like limited items, prefixes and other customization
+* Enhancing profile
+> changing usernames, password, bio...
+* Upgrade
+> upgrade your items... or lose 'em all.
+* __that's it, but you can always suggest your ideas on /idea page!__
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## released on July 5, 2025
+### since its birth, designed and maintained by `enbanana`
