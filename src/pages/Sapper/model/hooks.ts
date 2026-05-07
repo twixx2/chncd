@@ -117,7 +117,6 @@ export const useHelperSapper = () => {
             // Предварительно забрать выигрыш 
             await editBalance(Math.round((balance + win) * 100) / 100);
             localStorage.removeItem(STORAGE_KEY);
-            localStorage.removeItem(STORAGE_KEY);
             setIsPlay(false);
             setWin(0);
             setStep(-1);
