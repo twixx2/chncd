@@ -27,3 +27,4 @@ The chncd's author is focused on entertainment, therefore, all in-game currencie
 
 ## released on July 5, 2025
 ### since its birth, designed and maintained by `enbanana`
+##### ~~also known as csdrop~~
