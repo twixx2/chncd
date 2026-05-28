@@ -18,13 +18,15 @@
         border-radius: 22px;
 
         .text {
-            @include font(600, 16px);
+            @include font(700, 16px);
             color: $light-grey;
-
         }
+
         .made {
             @include font(900, 14px);
-            color: $white;
+            color: transparent;
+            background: linear-gradient(135deg, #0A0E1A 0%, #00D2FF 35%, #7B00FF 70%, #FF007F 100%);
+            background-clip: text;
             margin-top: 6px;
         }
     }

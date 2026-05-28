@@ -14,7 +14,7 @@ export const HomeAbout = () => (
                 chncd's creator condemns activities such as illegal gambling. love yall
             </p>
             <span className={s.made}>
-                made with love by enbanana
+                made with &hearts; by enbanana 
             </span>
         </div>
     </section>
