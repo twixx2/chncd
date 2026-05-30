@@ -1,6 +1,6 @@
 # chncd
 >**chncd** ~~(as in "chanced")~~ is a mini game platform inspired by casino-like mechanics. It does include cases, games, stakes and an inventory system. 
-The chncd's author is focused on entertainment, therefore, all in-game currencies, stakes, gameplay elements are entirely fictitious.
+The chncd's author is focused on entertainment, therefore, all in-game currencies, stakes, gameplay elements are entirely fictitious. Only-fun~~__s__~~.
 
 ## `Features`
 * Games
@@ -17,11 +17,17 @@ The chncd's author is focused on entertainment, therefore, all in-game currencie
 * Trades
 > swap your items with other players
 * Mrkt
-> a powerful place to buy stuff like limited items, prefixes and other customization
+> a place where you can buy limited items, prefixes, lottie statuses and other
 * Enhancing profile
-> changing usernames, password, bio...
-* Upgrade
+> changing usernames, password, bio, notifications, deleting and tracking your stats
+* Upgrader
 > upgrade your items... or lose 'em all.
+* Achievements
+> lock it in!
+* Clubs
+> unite or get eclipsed
+* Leaderboard
+> flex your balance!
 * __that's it, but you can always suggest your ideas on /idea page!__
 
 
